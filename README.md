@@ -2,8 +2,7 @@
 
 Seja bem-vindo ao meu perfil no GitHub.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em evolução contínua na área de tecnologia, desenvolvimento de software, lógica, C#, Git, redes, segurança e inteligência artificial.  
-Estou construindo minha base com disciplina, prática e projetos reais, buscando crescer como desenvolvedor e ampliar minha visão técnica a cada etapa.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em evolução contínua na área de tecnologia, desenvolvimento de software, lógica de programação, C#, Git, redes, segurança e inteligência artificial.
 
 ---
 
@@ -12,33 +11,31 @@ Estou construindo minha base com disciplina, prática e projetos reais, buscando
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequias-santos-da-silva-3047522a9)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EzequiasBR)
 
-> Caso queira trocar ideias sobre tecnologia, estudos, projetos e desenvolvimento, fique à vontade para se conectar.
-
 ---
 
 ## Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 📚 Em constante aprendizado em **C#, lógica de programação, Git, redes, segurança e Azure**
-- 🚀 Buscando desenvolver projetos sólidos e evoluir na área de tecnologia
-- 💡 Interessado em desenvolvimento back-end, arquitetura, boas práticas e aprendizado contínuo
+- 🚀 Construindo projetos e fortalecendo minha base técnica
+- 💡 Interessado em back-end, arquitetura de software e boas práticas
 
 ---
 
 ## GitHub Stats
 
-<div>
-  <a href="https://github.com/EzequiasBR">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EzequiasBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequiasBR&layout=compact&theme=dracula"/>
-  </a>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EzequiasBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequiasBR&layout=compact&theme=dracula" />
 </div>
 
 ---
 
 ## Destaque de contribuição
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=EzequiasBR&repo=dio-lab-open-source&theme=dracula)](https://github.com/EzequiasBR/dio-lab-open-source)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EzequiasBR&repo=dio-lab-open-source&theme=dracula" />
+</div>
 
 ---
 
@@ -63,12 +60,6 @@ Estou construindo minha base com disciplina, prática e projetos reais, buscando
 
 ---
 
-## Objetivo
-
-Meu objetivo é construir uma trajetória sólida na tecnologia, fortalecendo minha base técnica, desenvolvendo projetos práticos e evoluindo como profissional a cada novo desafio.
-
----
-
 ## Snake das contribuições
 
-![snake animation](https://github.com/EzequiasBR/EzequiasBR/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/EzequiasBR/EzequiasBR/output/github-contribution-grid-snake.svg)
