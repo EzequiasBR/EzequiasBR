@@ -1,8 +1,9 @@
-# Olá, eu sou Ezequias Santos! 👋
+# Ezequias Santos 👋
 
-Seja bem-vindo ao meu perfil no GitHub.
+Estudante de **Análise e Desenvolvimento de Sistemas**, em constante evolução na área de tecnologia.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em evolução contínua na área de tecnologia, desenvolvimento de software, lógica de programação, C#, Git, redes, segurança e inteligência artificial.
+Tenho direcionado minha jornada para a construção de uma base sólida em desenvolvimento de software, com foco em **C#**, **lógica de programação**, **Git**, **redes**, **segurança** e **inteligência artificial**.  
+Acredito no crescimento por meio de disciplina, consistência, prática e aprendizado contínuo.
 
 ---
 
@@ -13,53 +14,53 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em evoluç
 
 ---
 
-## Sobre mim
+## Perfil
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 📚 Em constante aprendizado em **C#, lógica de programação, Git, redes, segurança e Azure**
-- 🚀 Construindo projetos e fortalecendo minha base técnica
-- 💡 Interessado em back-end, arquitetura de software e boas práticas
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EzequiasBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequiasBR&layout=compact&theme=dracula" />
-</div>
+- 🎓 Estudante de **ADS**
+- 💻 Foco em desenvolvimento e crescimento técnico
+- 📚 Estudando **C#, .NET, lógica, Git, Azure, redes e segurança**
+- 🚀 Construindo conhecimento com prática e projetos
+- 🔍 Interesse em **back-end, boas práticas e arquitetura de software**
 
 ---
 
-## Destaque de contribuição
+## Tecnologias e ferramentas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EzequiasBR&repo=dio-lab-open-source&theme=dracula" />
-</div>
-
----
-
-## Tecnologias e ferramentas em aprendizado
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</div>
+![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## Snake das contribuições
+## Em aprendizado
 
-![snake animation](https://raw.githubusercontent.com/EzequiasBR/EzequiasBR/output/github-contribution-grid-snake.svg)
+- Análise e Desenvolvimento de Sistemas
+- Inglês
+- C#
+- Lógica de Programação
+- Git e GitHub
+- Redes
+- Segurança Cibernética
+- Azure e IA
+- Ciência de Dados
+
+---
+
+## Repositórios
+
+Aqui você encontrará minha evolução por meio de estudos, exercícios e projetos:
+
+🔗 [Ver meus repositórios](https://github.com/EzequiasBR?tab=repositories)
+
+---
+
+## Final
+
+Cada projeto representa um passo da minha construção na tecnologia.
+
+Obrigado por visitar meu perfil.
